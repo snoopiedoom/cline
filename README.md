@@ -3,8 +3,8 @@
 line effect inspired by this [video](https://www.youtube.com/watch?v=TdTMeNXCnTs)
 
 # controls
-SPC - pause
-R - new line
+SPC - pause\
+R - new line\
 J/K - increase, decrease speed
 
 # preview
